@@ -1,6 +1,6 @@
 RDP Recognizer coded z668
 
-Download: https://drive.google.com/file/d/1l4uYeX1-bD79s9M_psZJHCUcAVLOJNY1/view?usp=drive_link
+Download: https://u.pcloud.link/publink/show?code=XZwHEL5ZOBH7nGCDEujmUFui4KEI2bKOude7
 
 Password: rdprecognizer
 
